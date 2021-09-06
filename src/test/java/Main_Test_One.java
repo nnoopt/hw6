@@ -35,4 +35,5 @@ public class Main_Test_One {
         int [] mass = {1,2,3,4,5,6,7,8,9,4};
         Assertions.assertArrayEquals(new int[]{} , mainTest.one(mass));
     }
+
 }

@@ -11,7 +11,6 @@ public class Main {
         throw new RuntimeException("Не верный массив");
     }
 
-
     public boolean two (int [] mass){
         boolean contains1 = false;
         boolean contains4 = false;
