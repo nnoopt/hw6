@@ -41,5 +41,4 @@ public class Main_Test_Two {
         Assertions.assertFalse(mainTest.two(new int[]{4,4,4,3}));
     }
 
-
 }
